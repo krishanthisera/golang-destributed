@@ -1,0 +1,26 @@
+{
+  "name": "golang-destributed",
+  "version": "1.0.0",
+  "description": "Golang Destibuted application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishanthisera/golang-destributed.git"
+  },
+  "keywords": [
+    "golang"
+  ],
+  "author": "Krishan Thisera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishanthisera/golang-destributed/issues"
+  },
+  "homepage": "https://github.com/krishanthisera/golang-destributed#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.8.0"
+  }
+}
